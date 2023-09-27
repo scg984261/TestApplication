@@ -1,0 +1,14 @@
+/Users/scottgillen/dotnet-work/TestApplication/bin/Debug/net7.0/TestApplication
+/Users/scottgillen/dotnet-work/TestApplication/bin/Debug/net7.0/TestApplication.deps.json
+/Users/scottgillen/dotnet-work/TestApplication/bin/Debug/net7.0/TestApplication.runtimeconfig.json
+/Users/scottgillen/dotnet-work/TestApplication/bin/Debug/net7.0/TestApplication.dll
+/Users/scottgillen/dotnet-work/TestApplication/bin/Debug/net7.0/TestApplication.pdb
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.AssemblyInfoInputs.cache
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.AssemblyInfo.cs
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.csproj.CoreCompileInputs.cache
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.dll
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/refint/TestApplication.dll
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.pdb
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/TestApplication.genruntimeconfig.cache
+/Users/scottgillen/dotnet-work/TestApplication/obj/Debug/net7.0/ref/TestApplication.dll
