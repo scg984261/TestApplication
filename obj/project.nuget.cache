@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u+5NBbAzwaYZaSeR05/VcqC2W650o794BIzPGLCFWRrOt5wHPU3SqHUW6z10ZqRAhYfVVmx0EJApJmtRxKz7OQ==",
+  "dgSpecHash": "+5+jbqkXJXFh7ED0f3ptESDnGVS1nIIpaKvsMNtgXOUeLi+02sdWjo/3K0NOi/ZWeG995KbZUPiuM331wNeQEA==",
   "success": true,
   "projectFilePath": "/Users/scottgillen/dotnet-work/TestApplication/TestApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/scottgillen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

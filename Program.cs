@@ -1,5 +1,7 @@
 ﻿using Model;
 using TestNamespace;
+using Newtonsoft.Json;
+using System.Xml.Serialization;
 
 namespace TestApplication
 {
@@ -17,6 +19,15 @@ namespace TestApplication
             };
 
             person.PrintDetails();
+            string json = JsonConvert.SerializeObject(person, Formatting.Indented);
+            Console.WriteLine(json);
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(Person));
+
+            using (var stream = new StreamWriter("./output.xml"))
+            {
+                xmlSerializer.Serialize(stream, person);
+            }
         }
     }
 }
