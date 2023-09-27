@@ -1,4 +1,4 @@
-namespace TestApplication.Model
+namespace Model
 {
     public class Person
     {

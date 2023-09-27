@@ -1,4 +1,4 @@
-namespace TestApplication.TestNamespace
+namespace TestNamespace
 {
     public class Product
     {

@@ -1,5 +1,5 @@
-﻿using TestApplication.Model;
-using TestApplication.TestNamespace;
+﻿using Model;
+using TestNamespace;
 
 namespace TestApplication
 {
